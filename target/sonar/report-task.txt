@@ -2,5 +2,5 @@ projectKey=com.objis:ServeurGestionEtudiant
 serverUrl=http://localhost:9000
 serverVersion=7.4.0.18908
 dashboardUrl=http://localhost:9000/dashboard?id=com.objis%3AServeurGestionEtudiant
-ceTaskId=AWceq9ChsoIMn96peymS
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AWceq9ChsoIMn96peymS
+ceTaskId=AWc3TsqkEp75QEo5OwvT
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWc3TsqkEp75QEo5OwvT

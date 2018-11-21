@@ -197,7 +197,7 @@ public class Etudiant extends Personne implements Serializable{
 
     /**
      * Redefinition de la methode toString() en affichant les proprites herites
-     * de la super classe Personne
+     * de la super classe Personne.
      *
      * @return
      */

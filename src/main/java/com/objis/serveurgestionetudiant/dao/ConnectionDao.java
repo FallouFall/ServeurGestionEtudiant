@@ -3,7 +3,7 @@ package com.objis.serveurgestionetudiant.dao;
 
 /**
  * @author Fallou
- * Example de classe 
+ * Example de classe pour ne pas laisser le package vide dans le javadoc.
  * Vide pour le moment
  */
 public class ConnectionDao {
